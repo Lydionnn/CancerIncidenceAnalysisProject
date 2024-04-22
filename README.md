@@ -4,6 +4,9 @@ This repository contains data, analysis scripts, and visualization tools used in
 
 ## Data 📄🤓
 The dataset used in this project (cancer_reg.csv) includes various demographic, socioeconomic, and health-related metrics such as median income, population estimates, health insurance coverage percentages, and cancer incidence rates.
+### Visualizations - https://public.tableau.com/app/profile/fernando.amaya7973/viz/CancerCasesAnalysis/Dashboard1
+Created heatmaps, scatter plots, and bar charts using Tableau to visualize complex relationships in the data.
+Added reference lines to scatter plots to compare individual states against the average incidence rate. 
 
 ## Process ⚙️
 ### Understanding the Data
@@ -27,9 +30,7 @@ Extracted the state and county information from the geography field to allow for
 ### Statistical Analysis
 Calculated the incidence rate per 100,000 people to standardize across states with varying population sizes.
 Analyzed the correlation between median income and cancer incidence rates using scatter plots and calculated Pearson correlation coefficients to quantify the relationships.
-### Visualizations
-Created heatmaps, scatter plots, and bar charts using Tableau to visualize complex relationships in the data.
-Added reference lines to scatter plots to compare individual states against the average incidence rate.
+
 ### Insights
 Identified a positive correlation between median income and cancer incidence rates, suggesting higher diagnosis rates in wealthier states, potentially due to better access to healthcare or more comprehensive reporting.
 Explored how public healthcare coverage may affect cancer detection rates.
