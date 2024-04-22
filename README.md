@@ -4,7 +4,7 @@ This repository contains data, analysis scripts, and visualization tools used in
 
 ## Data 📄🤓
 The dataset used in this project (cancer_reg.csv) includes various demographic, socioeconomic, and health-related metrics such as median income, population estimates, health insurance coverage percentages, and cancer incidence rates.
-### Visualizations - https://public.tableau.com/app/profile/fernando.amaya7973/viz/CancerCasesAnalysis/Dashboard1
+### Visualizations - Tableau Public https://public.tableau.com/app/profile/fernando.amaya7973/viz/CancerCasesAnalysis/Dashboard1
 Created heatmaps, scatter plots, and bar charts using Tableau to visualize complex relationships in the data.
 Added reference lines to scatter plots to compare individual states against the average incidence rate. 
 
