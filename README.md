@@ -50,8 +50,7 @@ Install the required dependencies as listed in requirements.txt.
 Explore the datasets available in the /data directory.
 Run the analysis scripts in /scripts to reproduce the findings.
 Open the Tableau workbooks in /visualizations to view and interact with the visualizations.
-### Contributing
-We welcome contributions to this project! Please read through our contribution guidelines before making a pull request.
+
 
 ### License
 This project is available under the MIT License.
