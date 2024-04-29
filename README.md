@@ -8,6 +8,7 @@ This repository contains data, analysis scripts, and visualization tools used in
 The dataset used in this project (cancer_reg.csv) includes various demographic, socioeconomic, and health-related metrics such as median income, population estimates, health insurance coverage percentages, and cancer incidence rates.
 Cleaned the data in Python using different libraries (Pandas, Numpy, Seaborn, Matplotlib)
 Used the clean data to create the Tableau Dashboard
+Dataset from Kaggle: https://www.kaggle.com/datasets/varunraskar/cancer-regression
 
 ### Visualizations - Tableau Public https://public.tableau.com/app/profile/fernando.amaya7973/viz/CancerCasesAnalysis/Dashboard1
 Created heatmaps, scatter plots, and bar charts using Tableau to visualize complex relationships in the data.
@@ -51,9 +52,3 @@ Explore the datasets available in the /data directory.
 Run the analysis scripts in /scripts to reproduce the findings.
 Open the Tableau workbooks in /visualizations to view and interact with the visualizations.
 
-
-### License
-This project is available under the MIT License.
-
-### Contact
-For any queries or discussions regarding the project, please open an issue in this repository.
