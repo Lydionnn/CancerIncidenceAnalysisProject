@@ -40,15 +40,5 @@ Analyzed the correlation between median income and cancer incidence rates using 
 ### Insights
 Identified a positive correlation between median income and cancer incidence rates, suggesting higher diagnosis rates in wealthier states, potentially due to better access to healthcare or more comprehensive reporting.
 Explored how public healthcare coverage may affect cancer detection rates.
-### Repository Structure
-/data: Contains the raw data and processed datasets.
-/scripts: Includes all data preprocessing and analysis scripts.
-/visualizations: Contains Tableau workbook files and other visualization outputs.
-/docs: Documentation related to the project.
-### How to Use This Repository
-Clone the repository to your local machine.
-Install the required dependencies as listed in requirements.txt.
-Explore the datasets available in the /data directory.
-Run the analysis scripts in /scripts to reproduce the findings.
-Open the Tableau workbooks in /visualizations to view and interact with the visualizations.
+
 
